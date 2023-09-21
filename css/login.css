@@ -37,8 +37,10 @@ body{
 }
 
 .login img{
-    width: 65px;
-    height: auto;
+    width: 155px;
+    height: 120px;
+    margin-top:-40px;
+
 }
 
 .input ::placeholder{
